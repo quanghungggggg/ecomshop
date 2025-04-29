@@ -1,0 +1,23 @@
+# Maven / Gradle build folders
+/target/
+build/
+
+# Eclipse / IntelliJ IDEA / VSCode project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
